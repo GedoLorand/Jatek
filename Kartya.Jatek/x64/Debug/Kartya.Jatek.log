@@ -1,0 +1,12 @@
+﻿  Player.c
+C:\Users\gedol\Documents\Egyetem Lori\Adatszerkezet\KartyaJatekGit\Kartya.Jatek\Player.c(39,10): warning C4101: 'ujRand': unreferenced local variable
+C:\Users\gedol\Documents\Egyetem Lori\Adatszerkezet\KartyaJatekGit\Kartya.Jatek\Player.c(138,31): warning C4028: formal parameter 1 different from declaration
+  Source.c
+C:\Users\gedol\Documents\Egyetem Lori\Adatszerkezet\KartyaJatekGit\Kartya.Jatek\Source.c(9,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gedol\Documents\Egyetem Lori\Adatszerkezet\KartyaJatekGit\Kartya.Jatek\Source.c(46,48): warning C4047: 'function': 'Kartya **' differs in levels of indirection from 'int'
+C:\Users\gedol\Documents\Egyetem Lori\Adatszerkezet\KartyaJatekGit\Kartya.Jatek\Source.c(46,48): warning C4024: 'printEllensegKartya': different types for formal and actual parameter 1
+C:\Users\gedol\Documents\Egyetem Lori\Adatszerkezet\KartyaJatekGit\Kartya.Jatek\Source.c(54,48): warning C4047: 'function': 'Kartya **' differs in levels of indirection from 'int'
+C:\Users\gedol\Documents\Egyetem Lori\Adatszerkezet\KartyaJatekGit\Kartya.Jatek\Source.c(54,48): warning C4024: 'printEllensegKartya': different types for formal and actual parameter 1
+C:\Users\gedol\Documents\Egyetem Lori\Adatszerkezet\KartyaJatekGit\Kartya.Jatek\Source.c(118,9): warning C4129: 'M': unrecognized character escape sequence
+  Generating Code...
+  Kartya.Jatek.vcxproj -> C:\Users\gedol\Documents\Egyetem Lori\Adatszerkezet\KartyaJatekGit\x64\Debug\Kartya.Jatek.exe
